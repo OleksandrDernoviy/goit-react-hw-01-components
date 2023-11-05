@@ -1,0 +1,12 @@
+
+th{
+    width: 80px;
+    padding: 10px;
+    background-color: green;
+}
+td{
+    width: 80px;
+    padding: 10px;
+    background-color: lightblue;
+    text-align: center;
+}
