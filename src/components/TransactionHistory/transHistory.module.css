@@ -1,12 +1,15 @@
 
 th{
-    width: 80px;
+    width: 200px;
     padding: 10px;
-    background-color: green;
+    background-color: gray;
+    border: 1px solid black;
 }
 td{
-    width: 80px;
+    width: 200px;
     padding: 10px;
-    background-color: lightblue;
+    /* background-color: rgb(156, 148, 57); */
+    background-color: lightgray;
     text-align: center;
+    border: 1px solid black;
 }

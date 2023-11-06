@@ -1,21 +1,27 @@
+.profile {
+    margin-bottom: 20px;
+}
+
 .avatar{
     display: block;
     max-width: 100%;
     width: 150px;
     border-radius: 50%;
+    margin-top: 20px;
 }
 
 
 
 .name{
-   font-weight: 500;
-    font-size: 20px;
+    
+    font-weight: 700;
+    font-size: 24px;
     line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
     color: black;
-    margin-top: 10px;
-    margin-bottom: 0;
+    /* margin-top: 20px; */
+    margin-bottom: 10px;
 }
 .profile{
     width: 246px;
@@ -32,14 +38,25 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-color: gray;
+    background-color: lightcyan;
 }
 
  .tag{
-color: blue;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+    margin-bottom: 10px;
+
 } 
 .location{
+    font-weight: 500;
+    font-size: 20px;
     margin-bottom: 20px;
+    color: black;
 } 
 
 
@@ -54,7 +71,7 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: yellow;
+    background-color: lightcoral;
     border: 1px solid black;
  
 }

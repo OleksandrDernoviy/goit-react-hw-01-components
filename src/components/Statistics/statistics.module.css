@@ -3,15 +3,25 @@
 }
 .statistics{
     background-color: blue;
+    margin-bottom: 20px;
 }
 .item{
     width: 50px;
     height: 50px;
     border: 1px solid black;
+    background-color: yellow;
 }
 
 
 .title{
     text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: yellow;
+    padding: 10px 0 10px 0;
 }
 
