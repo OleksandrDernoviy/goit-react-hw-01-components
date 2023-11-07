@@ -3,6 +3,7 @@
     /* height: 80px; */
     display: flex;
     gap: 40px;
+    justify-content: inherit;
     flex-direction: row;
     border: 1px solid black;
     background-color: rgb(238, 232, 232);

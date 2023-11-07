@@ -70,6 +70,7 @@ li {
     height: 50px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     background-color: lightcoral;
     border: 1px solid black;
